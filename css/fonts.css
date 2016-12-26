@@ -1,0 +1,49 @@
+/* font-family: "BebasRegular"; */
+@font-face {
+	font-family: "BebasRegular";
+	src: url("../fonts/BebasRegular/BebasRegular.eot");
+	src: url("../fonts/BebasRegular/BebasRegular.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/BebasRegular/BebasRegular.woff") format("woff"),
+	url("../fonts/BebasRegular/BebasRegular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+/* font-family: "BebasLight"; */
+@font-face {
+	font-family: "BebasLight";
+	src: url("../fonts/BebasLight/BebasLight.eot");
+	src: url("../fonts/BebasLight/BebasLight.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/BebasLight/BebasLight.woff") format("woff"),
+	url("../fonts/BebasLight/BebasLight.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+/* font-family: "BebasMedium"; */
+@font-face {
+	font-family: "BebasMedium";
+	src: url("../fonts/BebasMedium/BebasMedium.eot");
+	src: url("../fonts/BebasMedium/BebasMedium.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/BebasMedium/BebasMedium.woff") format("woff"),
+	url("../fonts/BebasMedium/BebasMedium.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+/* font-family: "BebasBold"; */
+@font-face {
+	font-family: "BebasBold";
+	src: url("../fonts/BebasBold/BebasBold.eot");
+	src: url("../fonts/BebasBold/BebasBold.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/BebasBold/BebasBold.woff") format("woff"),
+	url("../fonts/BebasBold/BebasBold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "BebasBold";
+	src: url("../fonts/BebasBold/BebasBold.eot");
+	src: url("../fonts/BebasBold/BebasBold.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/BebasBold/BebasBold.woff") format("woff"),
+	url("../fonts/BebasBold/BebasBold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
